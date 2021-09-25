@@ -1,0 +1,10 @@
+.ColorBoxes-Container {
+  width: 80vw;
+  height: 80vw;
+  border: 1px solid black;
+  display: flex;
+}
+
+.ColorBoxes-Button {
+  margin-top: 1.5rem;
+}
